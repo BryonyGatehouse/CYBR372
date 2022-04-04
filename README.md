@@ -11,5 +11,5 @@ Students who pass this course will be able to:
 
 ### Assessment
 
-- [Implementation Assignment]
-- [Analysis Assignment]
+- [Implementation Assignment](Assignment%201)
+- [Analysis Assignment](Assignment%202)
